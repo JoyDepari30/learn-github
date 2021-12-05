@@ -3,3 +3,4 @@ Learning using github
   - using github for daily code and univ project
   - make my own mini project
   - create CV website
+  - lorem ipsum dolor sit amet

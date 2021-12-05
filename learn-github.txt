@@ -2,3 +2,4 @@ Learning using github
   - what is git and github
   - using github for daily code and univ project
   - make my own mini project
+  - create resume website

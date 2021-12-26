@@ -6,4 +6,5 @@ Learning using github
   - create CV website
   - lorem ipsum dolor sit amet
   - This is not lorem ipsum
-
+  - saya lupa2 inget
+  
